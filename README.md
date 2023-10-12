@@ -1,9 +1,25 @@
-# Travel Expert Landing Page
+<h1 align="center"> 🛫 Travel Expert Landing Page </h1> 
 
-## Sobre o Projeto
-Landing page para uma agência de viagens. <br>
-Projeto da Jornada do Zero à Primeira Vaga (Rocketseat).
+## Descrição do projeto
 
-![Badge](https://img.shields.io/badge/STATUS-Concluído-%238FCACA?style=for-the-badge)
+<p> Landing page para uma agência de viagens. <br>
+Projeto desenvolvido através do evento "Jornada do Zero à Primeira Vaga", da Rocketseat. </p>
 
-![travel-expert-landing-page](https://user-images.githubusercontent.com/89876548/226066831-cb73b783-e21f-4f77-a776-23df8ac9d539.png)
+![Badge](https://img.shields.io/badge/STATUS-Concluído-DB2777?style=for-the-badge)
+
+## Tecnologias utilizadas
+
+![icons8-html5](https://github.com/miyazatojj/travel-expert-landing-page/assets/89876548/03140513-00e8-4dd0-8e51-fac453fad932)
+![icons8-css](https://github.com/miyazatojj/travel-expert-landing-page/assets/89876548/7c9f8547-b549-4624-846b-e46648209945)
+
+## Acesso ao projeto
+
+[Clique aqui](https://miyazatojj.github.io/travel-expert-landing-page/)
+
+## Screenshot
+
+![travel-expert](https://github.com/miyazatojj/travel-expert-landing-page/assets/89876548/93129280-6f3f-4b72-b2db-b995c80b1df5)
+
+## Licença
+
+![Badge](https://img.shields.io/badge/License-MIT-EAE8DC?style=for-the-badge)
